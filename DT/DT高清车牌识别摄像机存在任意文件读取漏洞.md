@@ -7,6 +7,7 @@ DT高清车牌识别摄像机是一种高科技产品，主要用于抓拍和识
 ```
 app="DT-高清车牌识别摄像机"
 ```
+![image](https://github.com/user-attachments/assets/8afe600e-c050-4343-972e-aa986356a137)
 
 ## poc
 
