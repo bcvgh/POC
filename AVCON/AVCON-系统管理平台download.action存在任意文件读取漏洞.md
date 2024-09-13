@@ -7,6 +7,7 @@ AVCON-系统管理平台download.action存在任意文件读取漏洞，通过�
 ```yaml
 title="AVCON-系统管理平台"
 ```
+![image](https://github.com/user-attachments/assets/5a3ead63-e844-400a-b4c5-4cad25995358)
 
 
 ## poc
