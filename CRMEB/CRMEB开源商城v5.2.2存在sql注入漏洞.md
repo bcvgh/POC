@@ -7,6 +7,7 @@ CRMEB v.5.2.2 中的 SQL 注入漏洞允许远程攻击者通过 ProductControll
 ```
 icon_hash="-847565074"
 ```
+![image](https://github.com/user-attachments/assets/143f9169-59a7-4275-aa34-957714529d3d)
 
 ## poc
 
