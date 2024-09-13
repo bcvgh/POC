@@ -1,5 +1,11 @@
 ## Apache OFBiz SSRF && 任意配置读取
+```
+FOFA：app="Apache_OFBiz"
+url:/webtools
+```
+![image](https://github.com/user-attachments/assets/f8ecb5ef-da48-4b51-a1e0-a593a1d88847)
 
+![image](https://github.com/user-attachments/assets/f77c0460-047c-4277-9d18-da250c956e7c)
 
 ## 任意文件读取漏洞 poc
 以读取 applications/accounting/config/payment.properties 中的几个 key 为例
