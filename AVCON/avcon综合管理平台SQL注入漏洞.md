@@ -5,6 +5,7 @@
 ```
 web.title="AVCON-系统管理平台"
 ```
+![image](https://github.com/user-attachments/assets/5fcef29d-d71d-44e4-b3fa-56a2b87da9e2)
 
 ## poc
 ```
