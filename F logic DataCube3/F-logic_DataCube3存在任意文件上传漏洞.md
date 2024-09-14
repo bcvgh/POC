@@ -6,6 +6,7 @@ F-logic DataCube3 /admin/setting_photo.php接口处存在任意文件上传漏�
 ```
 title=="DataCube3"
 ```
+![image](https://github.com/user-attachments/assets/471a0d09-51cb-47d0-b1cc-e4674544e098)
 
 
 ## 未授权获取登录账号密码poc
