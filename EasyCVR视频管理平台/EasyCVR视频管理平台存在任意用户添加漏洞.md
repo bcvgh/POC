@@ -9,6 +9,7 @@
 ```
 app="EasyCVR-视频管理平台"
 ```
+![image](https://github.com/user-attachments/assets/12861f9a-24d3-4393-830e-b493c4fb53c4)
 
 
 
