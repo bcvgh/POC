@@ -7,6 +7,7 @@
 ```
 body="CheckSilverlightInstalled"
 ```
+![image](https://github.com/user-attachments/assets/6f0d932a-9f40-4c61-a60f-a2ab5f4334fa)
 
 ## poc
 
