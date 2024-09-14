@@ -5,6 +5,7 @@ EasyCVR 智能视频监控综合管理平台是一种针对大中型用户在跨
 ```
 title="EasyCVR"
 ```
+![image](https://github.com/user-attachments/assets/060759e7-f214-4953-9ffa-71750429fe51)
 
 ## poc
 ```
