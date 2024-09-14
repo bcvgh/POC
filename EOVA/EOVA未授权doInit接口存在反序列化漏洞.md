@@ -7,6 +7,8 @@ EOVA存在JDBC反序列化漏洞，由于JDBC连接mysql服务器的时候，参
 ```yaml
 icon_hash="-1699356011"
 ```
+/doInit
+![image](https://github.com/user-attachments/assets/524b0059-fbcf-4a77-a79a-3d4efc0f9bbd)
 
 ## poc
 
