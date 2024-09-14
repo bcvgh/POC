@@ -7,6 +7,7 @@ Exam在线考试系统是一种现代地，全新的考试模型。它使用户�
 ```
 "app/core/styles/js/jquery.min.js"
 ```
+![image](https://github.com/user-attachments/assets/935682cb-a5e6-4bfa-90ce-c4fdfe1c6b84)
 
 ## poc
 
