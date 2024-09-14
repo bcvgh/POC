@@ -7,6 +7,7 @@ Fastadmin框架 lang接口处存在任意文件读取漏洞，恶意攻击者可
 ```
 icon_hash="-1036943727"
 ```
+![image](https://github.com/user-attachments/assets/bce7e0fe-94f6-49f5-9ebd-ee36a934991e)
 
 ## poc
 
