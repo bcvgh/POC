@@ -7,6 +7,7 @@ H3C SecPath 下一代防火墙 存在任意文件上传漏洞，攻击者通过�
 ```yaml
 title="Web user login"
 ```
+![image](https://github.com/user-attachments/assets/e0b06b66-7a16-4480-8d53-8e21170d9cd0)
 
 ## poc
 
