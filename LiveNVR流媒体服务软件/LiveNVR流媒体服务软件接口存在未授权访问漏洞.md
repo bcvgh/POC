@@ -7,6 +7,7 @@ livenvr 青柿视频管理系统 channeltree 存在未授权访问漏洞。
 ```yaml
 icon_hash="-206100324" 
 ```
+![image](https://github.com/user-attachments/assets/5d789c59-140a-4d59-870b-7a1f2d28b69e)
 
 ## hunter
 
