@@ -1,5 +1,6 @@
 ## Likeshop-formimage任意文件上传
 
+![image](https://github.com/user-attachments/assets/cd801771-51cf-4900-be53-8ef3acdebfd3)
 
 ## poc
 ```
