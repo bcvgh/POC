@@ -7,6 +7,7 @@ Journyx项目管理软件 soap_cgi.pyc 接口存在XML实体注入漏洞，未�
 ```javascript
 "Journyx"
 ```
+![image](https://github.com/user-attachments/assets/85009ccf-4869-47b4-9ed1-a3204e264803)
 
 ## poc
 
