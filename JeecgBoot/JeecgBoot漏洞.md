@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d9e146c5-a8e0-4ba5-9b36-8df694bb0003)
+title=="JeecgBoot 企业级低代码平台" || body="window._CONFIG['imgDomainURL'] = 'http://localhost:8080/jeecg-boot/" || title="Jeecg-Boot 企业级快速开发平台" || title="Jeecg 快速开发平台" || body="'http://fileview.jeecg.com/onlinePreview'" || title=="JeecgBoot 企业级低代码平台" || title=="Jeecg-Boot 企业级快速开发平台" || title=="JeecgBoot 企业级快速开发平台" || title=="JeecgBoot 企业级快速开发平台" || title="Jeecg 快速开发平台" || title="Jeecg-Boot 快速开发平台" || body="积木报表" || body="jmreport"
+
 ## JeecgBoot sql注入漏洞
 ```
 POST /jeecg-boot/jmreport/queryFieldBySql HTTP/1.1
