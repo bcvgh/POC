@@ -7,6 +7,7 @@
 ```
 app="Adobe-Magento"
 ```
+![image](https://github.com/user-attachments/assets/fe595bf1-53db-4bde-b1f3-0d716d9533fa)
 
 ## poc
 
