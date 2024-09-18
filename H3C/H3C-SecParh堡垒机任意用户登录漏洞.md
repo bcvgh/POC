@@ -6,6 +6,7 @@ H3C SecParh堡垒机的get_detail_view.php中存在任意用户登录漏洞。�
 ```
 app="H3C-SecPath-运维审计系统" && body="2018"
 ```
+![image](https://github.com/user-attachments/assets/adf1012d-6261-4586-a6ce-b51fcbcd353f)
 
 ## poc
 ```
