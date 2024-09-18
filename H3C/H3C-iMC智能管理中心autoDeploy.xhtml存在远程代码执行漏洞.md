@@ -7,6 +7,7 @@
 ```javascript
 (title="用户自助服务" && body="/selfservice/javax.faces.resource/") || body="/selfservice/index.xhtml"
 ```
+![image](https://github.com/user-attachments/assets/3d9490a4-076f-4e60-aa92-4a50eefeabd5)
 
 ## poc
 
