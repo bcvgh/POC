@@ -7,6 +7,8 @@ IP网络广播服务平台存在任意文件上传漏洞，攻击者可以上传
 ```java
 icon_hash="-568806419"
 ```
+![image](https://github.com/user-attachments/assets/4234c615-b46a-42d1-b040-fd20cf483b7a)
+![image](https://github.com/user-attachments/assets/5619784e-869f-40a4-b6e7-2664e1e239be)
 
 ## poc
 
