@@ -11,6 +11,8 @@ Jeecg (J2EE C ode G eneration)是一款基于代码生成器的低代码开发�
 ```
 app="JEECG"
 ```
+/user/login?redirect=%2F
+![image](https://github.com/user-attachments/assets/6b1822e6-d5a4-49c9-8a8d-16d95f700dcf)
 
 ## poc
 
