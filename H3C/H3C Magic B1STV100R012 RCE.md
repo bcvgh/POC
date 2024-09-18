@@ -9,6 +9,8 @@ pfdrt=sc&ln=primefaces&pfdrid=uMKljPgnOTVxmOB%2BH6%2FQEPW9ghJMGL3PRdkfmbiiPkUDzO
 ```
 
 fofa：app="H3C-Ent-Router"
+![image](https://github.com/user-attachments/assets/00cde5ff-94a8-46f7-a3bf-48712a677ab6)
+
 ```
 POST /goform/aspForm HTTP/1.1
 Host: {{Hostname}}
