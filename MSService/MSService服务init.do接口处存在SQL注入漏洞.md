@@ -7,6 +7,7 @@ MSService 服务init.do接口处存在SQL注入漏洞。这可能导致泄露敏
 ```
 title="MSService 服务"
 ```
+![image](https://github.com/user-attachments/assets/ff8e1f52-0034-4ae3-a07d-9f58805c00af)
 
 ## poc
 
