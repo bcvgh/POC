@@ -7,7 +7,8 @@
 ```
 body="/ajax/LVS.Core.Common.STSResult,LVS.Core.Common.ashx"
 ```
-
+![image](https://github.com/user-attachments/assets/2c5c2b19-128c-4635-810d-b0783bbe2c44)
+/Business/UserLogin.aspx
 
 
 ## poc
