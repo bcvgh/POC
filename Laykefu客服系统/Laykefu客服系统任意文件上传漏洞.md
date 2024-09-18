@@ -6,6 +6,7 @@ Laykefu客服系统/admin/users/upavatar.html接口处存在文件上传漏洞�
 ```
 icon_hash="-334624619"
 ```
+![image](https://github.com/user-attachments/assets/0ef1ab26-3c9a-41f0-8889-b67920f04022)
 
 ## poc
 ```
