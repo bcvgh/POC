@@ -7,6 +7,7 @@ JieLink+智能终端操作平台多个接口处存在敏感信息泄露漏洞，
 ```yaml
 title="JieLink+智能终端操作平台"
 ```
+![image](https://github.com/user-attachments/assets/f63987e3-2d38-4ea7-b548-21755c28d450)
 
 ## poc
 
