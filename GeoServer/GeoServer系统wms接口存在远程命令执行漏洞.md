@@ -9,7 +9,8 @@ GeoServer是OGC Web服务器规范的J2EE实现，利用GeoServer可以方便地
 ```
 app="GeoServer"
 ```
-
+/geoserver
+![image](https://github.com/user-attachments/assets/65ccfb4d-24b8-44ac-ab80-d6f53e68b7ce)
 
 
 ## poc
