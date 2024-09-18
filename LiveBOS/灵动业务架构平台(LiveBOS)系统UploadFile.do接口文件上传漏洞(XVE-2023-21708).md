@@ -7,6 +7,10 @@ LiveBOS灵动业务架构平台（简称LiveBOS）是顶点软件股份有限公
 ```yaml
 app="LiveBOS-框架"
 ```
+![image](https://github.com/user-attachments/assets/f7024c5d-8c58-40d1-b2ef-35f0db7ab495)
+![image](https://github.com/user-attachments/assets/307633e8-69bd-4327-bcfe-053c3ff5429a)
+![image](https://github.com/user-attachments/assets/40d80911-d4dc-48cc-b0ab-bd31be309269)
+
 
 ## poc
 
