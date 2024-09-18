@@ -7,6 +7,7 @@ LiveGBS部分接口存在未授权访问导致，可以通过组合漏洞修改�
 ```yaml
 icon_hash="-206100324"
 ```
+![image](https://github.com/user-attachments/assets/9f85ad3a-1887-4d8b-931d-ec94c9673761)
 
 ## poc
 
