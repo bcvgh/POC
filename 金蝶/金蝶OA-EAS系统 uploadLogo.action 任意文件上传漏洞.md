@@ -7,6 +7,7 @@
 ```
 app="Kingdee-EAS"
 ```
+![image](https://github.com/user-attachments/assets/cf3e821a-1d69-4405-b9e8-390e829d4295)
 
 ## poc
 ```
